@@ -1,8 +1,9 @@
-\#SQL Ladder Challenge
+\#SQL Ladder Challenge:
 
-Ladder 1: SQL Basics 
+Ladder 1: SQL Basics
 
-Ladder 2 : GROUP BY \& HAVING 
+Ladder 2 : GROUP BY \& HAVING
 
-Ladder 3 : JOINs 
+Ladder 3 : JOINs
+
 
